@@ -1,0 +1,3 @@
+python -m pip install Pillow
+python -m pip install django-allauth
+python -m pip install django-crispy-forms
