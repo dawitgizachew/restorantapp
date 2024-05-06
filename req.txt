@@ -1,3 +1,16 @@
 python -m pip install Pillow
 python -m pip install django-allauth
 python -m pip install django-crispy-forms
+account
+admin_list
+admin_modify
+admin_urls
+allauth
+cache
+i18n
+l10n
+log
+socialaccount
+static
+tz
+crispy forms
